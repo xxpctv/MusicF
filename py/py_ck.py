@@ -2,7 +2,7 @@
 "urls": [
 { "url": "https://神器每日推送.tk/pz.json", "name": "神器接口" }, 
 { "url": "http://刚刚.live/猫", "name": "刚刚接口" }, 
-{ "url": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/dzb.json", "name": "⚡dz线路" },
+{ "url": "https://agit.ai/xxpctv/m/raw/branch/master/py/py_dz.py", "name": "⚡dz线路" },
 {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "🚀南风线路"},
 {"url": "http://饭太硬.ga/x/o.json","name": "👹饭太硬"},
 { "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/JS/js0.json", "name": "道长的js0自用接口" },
