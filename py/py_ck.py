@@ -16,6 +16,8 @@
 { "url": "https://notabug.org/oo/gao/raw/master/js.json", "name": "watson drpy1" },
 { "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/py/py_jd301.py", "name": "简单线路" },
 {"url": "https://notabug.org/xxpctv/diy/raw/master/mao/py.py","name": "央视py"},
+{"url":"https://gitee.com/wdc558/TVBox/raw/master/Yuexihuachen.json","name":"☪夕✿晨"},
+{"url": "https://gitee.com/ch0012/abc/raw/master/Yuexihuachen.json","name": "Yuexi线路"},
 {"url": "https://agit.ai/1058263215/TVBox/raw/branch/master/🏡电视合集1.json","name": "🏡电视合集1"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/T00700/TVBoxSE/master/vvebo.json","name":"vvebo"}
 
