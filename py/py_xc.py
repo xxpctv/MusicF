@@ -5,6 +5,7 @@
 {"key":"csp_DouDou","name":"🎧豆瓣┃评分","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"广播频道","name":"📡广播电台","type":3,"api":"https://agit.ai/xxpctv/m/raw/branch/master/py/live2mv.js","changeable":0,"ext":"广播电台$https://agit.ai/xxpctv/m/raw/branch/master/py/广播频道.txt"},
 {"key": "tjbook","name": "🍬手机听书","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/m/raw/branch/master/py/tjbook.json"},
+{"key": "乐视0125","name": "🍓乐视┃资源","type": 1,"api": "https://leshizyapi.com/api.php/provide/vod/","categories":["国产剧","纪录片","短剧","海外剧","香港剧","欧美剧","韩国剧","日剧","大陆综艺","港台综艺"]},
 {"key": "快云资源0128","name": "🌊快云资源","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["国产剧","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 {"key":"csp_Bttwoo1","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"categories": ["最新","国产剧", "美剧","日韩剧"]},
 {"key":"XAL蓝光","name": "XAL蓝光","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1},
@@ -19,7 +20,6 @@
 {"key":"喵次元","name":"喵次元","type":3,"api":"https://agit.ai/xxpctv/jdds/raw/branch/master/js/drpy2.min.js","ext":"https://agit.ai/ystvy/TVBox/raw/branch/main/JS/喵次元.js"},
 {"key":"达达龟_30208","name":"📻达达龟","type":"3","api":"https://agit.ai/xxpctv/jdds/raw/branch/master/js/drpy2.min.js","ext":"https://agit.ai/Rexian/fuli/raw/branch/main/js/达达龟.js"},
 {"key": "freeok0217","name": "FreeOk","type": 3,"api": "https://agit.ai/564892076/box/raw/branch/main//js/freeok_open.js","searchable": 1,"changeable": 1},
-{"key":"小胡0201","name":"小胡采集","type":1,"playerType":1,"api":"http://xh2.xn--yetu07f.icu/api.php/provide/vod/","categories": ["电影","国剧", "美剧","韩剧","动漫"]},
 
 {"key":"88看球_30215","name":"📻88看球","type":"3","api":"https://agit.ai/xxpctv/jdds/raw/branch/master/js/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/xxpctv/dr_py/main/js/88看球.js"},
 {"key": "看球0118","name": "⚽看球","type": 3,"api": "csp_Kanqiu","searchable": 1,"changeable": 0,"style": {"type": "list"},"jar": "./pg (996).jar"},
