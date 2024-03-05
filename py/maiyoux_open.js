@@ -1,8 +1,7 @@
-import { Crypto, load, _ } from './lib/cat.js';
+import { Crypto, load, _ } from 'https://agit.ai/smy/zy/raw/branch/master/JS/lib/cat.js';
 /**
  * 直播源
  * author：Leospring
- * 公众号：蚂蚁科技杂谈
  */
 
 let siteUrl = 'http://api.maiyoux.com:81/mf/';
@@ -69,7 +68,7 @@ async function detail(id) {
         const video = {
             vod_play_from: 'Leospring',
             vod_play_url: playUrls,
-            vod_content: '作者：Leospring 公众号：蚂蚁科技杂谈',
+            vod_content: '作者：Leospring 公众号：宝盒汇',
         };
         const list = [video];
         const result = { list };
