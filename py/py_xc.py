@@ -88,7 +88,7 @@
 {"key": "XBPQ_6V","name": "🧲6V4K磁力","type": 3,"api": "csp_XBPQ",
 "ext": {"分类url":"https://www.66ss.org/{cateId}/index_{catePg}.html[https://www.66ss.org/{cateId}]","分类":"喜剧片4K$xijupian#动作片4K$dongzuopian#爱情片4K$aiqingpian#科幻片4K$kehuanpian#恐怖片4K$kongbupian#剧情片4K$juqingpian#战争片4K$zhanzhengpian#纪录片4K$jilupian#动画片4K$donghuapian#电视剧4K$dianshiju#综艺4K$ZongYi"  }},
 {"key": "csp_XBPQ_mp4cl","name": "mp4cl","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./mp4cl.json"},
-{"key": "csp_XBPQ_ 97","name": "电影港","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "/97.json"},
+{"key": "csp_XBPQ_ 97","name": "电影港","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "/电影港.json"},
 {"key":"py_cctv","name":"🌏爱央视（PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py_cctv.py"},
 {"key": "py_cctv","name": "🇨🇳CCTV大全(PY)","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py_cctv2.py"},
 {"key": "py_央视片库","name": "央视片库(PY)","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./央视片库.py"},
