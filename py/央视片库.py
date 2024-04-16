@@ -6,10 +6,11 @@ from base.spider import Spider
 import json
 import time
 import base64
+import re
 
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
-		return "央视大全"
+		return "央视片库"
 	def init(self,extend=""):
 		print("============{0}============".format(extend))
 		pass
@@ -20,7 +21,10 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-			"央视大全": "CCTV"
+			"电视剧": "电视剧",
+			"动画片": "动画片",
+			"纪录片": "纪录片"
+			#"特别节目": "特别节目"
 		}
 		classes = []
 		for k in cateManual:
@@ -48,30 +52,28 @@ class Spider(Spider):  # 元类 默认的元类 type
 		if year == '':
 			month = ''
 		prefix = year + month
-		extend['p'] = pg
-		filterMap = {
-			"fl":"",
-			"fc":"",
-			"cid":"",
-			"p":"1"
-		}
+
+		url="https://api.cntv.cn/list/getVideoAlbumList?channelid=CHAL1460955899450127&area=&sc=&fc=%E5%8A%A8%E7%94%BB%E7%89%87&letter=&p={0}&n=24&serviceId=tvcctv&topv=1&t=json"
+		if tid=="电视剧":
+			url="https://api.cntv.cn/list/getVideoAlbumList?channelid=CHAL1460955853485115&area=&sc=&fc=%E7%94%B5%E8%A7%86%E5%89%A7&year=&letter=&p={0}&n=24&serviceId=tvcctv&topv=1&t=json"
+		elif tid=="纪录片":
+			url="https://api.cntv.cn/list/getVideoAlbumList?channelid=CHAL1460955924871139&fc=%E7%BA%AA%E5%BD%95%E7%89%87&channel=&sc=&year=&letter=&p={0}&n=24&serviceId=tvcctv&topv=1&t=json"
+		elif tid=="4":
+			url="https://api.cntv.cn/list/getVideoAlbumList?channelid=CHAL1460955953877151&channel=&sc=&fc=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE&bigday=&letter=&p={0}&n=24&serviceId=tvcctv&topv=1&t=json"	
 		suffix = ""
-		for key in filterMap.keys():
-			if key in extend.keys():
-				filterMap[key] = extend[key]
-			suffix = suffix + '&' + key + '=' + filterMap[key]
-		url = 'https://api.cntv.cn/lanmu/columnSearch?{0}&n=20&serviceId=tvcctv&t=json'.format(suffix)
-		jo = self.fetch(url,headers=self.header).json()
-		vodList = jo['response']['docs']
+		jo = self.fetch(url.format(pg),headers=self.header).json()
+		vodList=jo["data"]["list"]
 		videos = []
 		for vod in vodList:
-			lastVideo = vod['lastVIDE']['videoSharedCode']
+			lastVideo =vod['url']
+			brief=vod['brief']
+			if len(brief) == 0:
+				brief = ' '
 			if len(lastVideo) == 0:
 				lastVideo = '_'
-			guid = prefix+'###'+vod['column_name']+'###'+lastVideo+'###'+vod['column_logo']
-			# guid = prefix+'###'+vod['column_website']+'###'+vod['column_logo']
-			title = vod['column_name']
-			img = vod['column_logo']
+			guid = tid+'###'+vod["title"]+'###'+lastVideo+'###'+vod['image']+'###'+brief
+			title = vod["title"]
+			img = vod['image']
 			videos.append({
 				"vod_id":guid,
 				"vod_name":title,
@@ -86,6 +88,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 	def detailContent(self,array):
 		aid = array[0].split('###')
+		if aid[2].find("http")<0:
+			return {}
 		tid = aid[0]
 		logo = aid[3]
 		lastVideo = aid[2]
@@ -93,33 +97,40 @@ class Spider(Spider):  # 元类 默认的元类 type
 		date = aid[0]
 		if lastVideo == '_':
 			return {}
-
-		lastUrl = 'https://api.cntv.cn/video/videoinfoByGuid?guid={0}&serviceId=tvcctv'.format(lastVideo)
-		lastJo = self.fetch(lastUrl,headers=self.header).json()
-		topicId = lastJo['ctid']
-		url = "https://api.cntv.cn/NewVideo/getVideoListByColumn?id={0}&d={1}&p=1&n=100&sort=desc&mode=0&serviceId=tvcctv&t=json".format(topicId,date)
-		jo = self.fetch(url,headers=self.header).json()
-		vodList = jo['data']['list']
+		rsp = self.fetch(lastVideo)
+		htmlTxt=rsp.text
+		column_id = ""
 		videoList = []
-		for video in vodList:
-			videoList.append(video['title']+"$"+video['guid'])
+		patternTxt=r"'title':\s*'(.+?)',\n{0,1}\s*'img':\s*'(.+?)',\n{0,1}\s*'brief':\s*'(.+?)',\n{0,1}\s*'url':\s*'(.+?)'"
+		titleIndex=0
+		UrlIndex=3
+		if tid=="电视剧" or tid=="纪录片":
+			patternTxt=r"'title':\s*'(.+?)',\n{0,1}\s*'brief':\s*'(.+?)',\n{0,1}\s*'img':\s*'(.+?)',\n{0,1}\s*'url':\s*'(.+?)'"
+			titleIndex=0
+			UrlIndex=3
+		elif tid=="特别节目":
+			patternTxt=r'class="tp1"><a\s*href="(https://.+?)"\s*target="_blank"\s*title="(.+?)"></a></div>'
+			titleIndex=1
+			UrlIndex=0
+			#https://api.cntv.cn/NewVideo/getVideoListByAlbumIdNew?id=VIDA3YcIusJ9mh4c9mw5XHyx230113&serviceId=tvcctv//由于方式不同暂时不做
+		pattern = re.compile(patternTxt)
+		ListRe=pattern.findall(htmlTxt)
+		for value in ListRe:
+			videoList.append(value[titleIndex]+"$"+value[UrlIndex])
 		if len(videoList) == 0:
 			return {}
-		if len(date) == 0:
-			date = time.strftime("%Y", time.localtime(time.time()))
 		vod = {
 			"vod_id":array[0],
-			"vod_name":date +" "+title,
+			"vod_name":title,
 			"vod_pic":logo,
-			"type_name":lastJo['channel'],
+			"type_name":tid,
 			"vod_year":date,
 			"vod_area":"",
 			"vod_remarks":date,
 			"vod_actor":"",
-			"vod_director":topicId,
-			"vod_content":"当前页面默认只展示最新100期的内容，可在分类页面选择年份和月份进行往期节目查看。年份和月份仅影响当前页面内容，不参与分类过滤。视频默认播放可以获取到的最高帧率。"
+			"vod_director":column_id,
+			"vod_content":aid[4]
 		}
-
 		vod['vod_play_from'] = 'CCTV'
 		vod['vod_play_url'] = "#".join(videoList)
 		result = {
@@ -136,7 +147,13 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 	def playerContent(self,flag,id,vipFlags):
 		result = {}
-		url = "https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid={0}".format(id)
+		rsp = self.fetch(id)
+		htmlTxt=rsp.text
+		pattern = re.compile(r'var\sguid\s*=\s*"(.+?)";')
+		ListRe=pattern.findall(htmlTxt)
+		if ListRe==[]:
+			return result
+		url = "https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid={0}".format(ListRe[0])
 		jo = self.fetch(url,headers=self.header).json()
 		link = jo['hls_url'].strip()
 		rsp = self.fetch(link,headers=self.header)
