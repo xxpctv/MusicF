@@ -11,12 +11,12 @@
 {"key":"歌曲0222","name":"🎙️歌曲","type":3,"api":"csp_Bili","ext":"./bili歌曲.json"},
 {"key":"360ba_open0309","name":"🐳粤语直播","type":3,"playerType":"1","api":"./360ba_open.js"},
 {"key":"yinyuetai_open0309","name":"🐳音悦台","type":3,"playerType":"1","api":"./yinyuetai_open.js"},
-
 {"key": "T4-360kq0331","name": "⛹️粤语直播2","type": 4,"api": "https://catbox.n13.club/360kq.php","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": true},
 {"key": "Yinyuetai","name": "🛰音悦台┃音乐┃MV","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0,"jar": "./fangniu.jar;md5;91DE2C2701014CE63FFF81FFB420E029"},
 {"key": "tjbook","name": "🍬手机听书","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tjbook.json"},
 {"key":"360","name":"💘360(d)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"360kan_open2","name":"🐳360kan","type":3,"api":"./360kan_open.js"},
+{"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./cili.jar"},
 {"key":"csp_Bttwoo1","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"categories": ["最新","国产剧", "美剧","日韩剧"]},
 {"key":"drpy_js_酷吧0305","name":"酷吧4k|磁","type":3,"api":"./drpy2.min.js","ext":"./kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 {"key":"新片场_30210","name":"📻新片场","type":"3","api":"./drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/xxpctv/dr_py/main/js/新片场.js"},
