@@ -92,8 +92,8 @@ async function detail(id) {
     const vod = {
         vod_id: id,
         vod_name: id,
-        vod_play_from: 'Leospring',
-        vod_content: '该影视由💕一个分享者💕采集分享，请勿传播，仅供技术学习使用，请在学习后24小时内删除；由此产生的任何法律风险自行承担，与本作者无关！',
+        vod_play_from: 'mh',
+        vod_content: '该影视由mh采集分享，请勿传播分享，仅供技术学习使用，请在学习后24小时内删除；由此产生的任何法律风险自行承担，与本作者无关！',
     }
     if (id.endsWith('.mkv')) {
         vod.vod_play_url = '播放$' + id;
