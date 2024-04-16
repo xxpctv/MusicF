@@ -1,0 +1,24 @@
+📡广播频道,#genre#
+广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
+深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
+珠江经济台,http://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
+羊城交通广播,http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
+广东新闻广播,http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+广东城市之声,http://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8
+广东文体广播,http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+广东南粤之声,http://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
+南方生活广播,http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
+深圳交通广播,http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
+环球资讯,http://sk.cri.cn/905.m3u8
+经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
+上海动感101,http://ls.qingting.fm/live/274.m3u8
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
+高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
+老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
+亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
+厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
+浙江动听,http://ls.qingting.fm/live/4866.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
