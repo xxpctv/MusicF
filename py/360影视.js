@@ -9,8 +9,8 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-    class_name:'电视剧&电影&综艺&动漫',
-    class_url:'2&1&3&4',
+    class_name:'电影&电视剧&综艺&儿童动漫',
+    class_url:'1&2&3&4',
     limit:5,
     multi:1,
     searchable:2,
