@@ -95,7 +95,7 @@
 {"key": "py_cctv_6","name": "🇨🇳CCTV(PY可搜索)","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./py_cctv.py"},
 {"key": "py_bilimd","name": "B站影视(PY)","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py_bilimd.py"},
 {"key":"py_bilibili3","name":"B 站(PY)","type":3,"api":"py_bili","style":{ "type":"rect", "ratio":1.33 },"searchable":1,"quickSearch":1,"filterable":1,"ext":"./py_bilibili3.py"},
-
+{"key":"py_1905","name":"🌏1905（PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py_1905.py"},
 {"key": "py_kt30","name": "🐈卡通站(PY)","type": 3,"api": "py_kt30","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "htt./py_kt30.py"},
 {"key": "py_gaoqing","name": "🐯高清资源(PY,绿化)","type": 3,"api": "py_gaoqing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./高清资源.py"},
 {"key": "py_xinl","name": "🥡新浪资源(PY,绿化)","type": 3,"api": "py_xinl","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./新浪资源.py"},
@@ -291,7 +291,7 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 		}  
 	}],
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3h4cGN0di9qZGRzL3Jhdy9icmFuY2gvbWFzdGVyL2pkL2pkZHMudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy94eHBjdHYvZHovcmF3L21hc3Rlci9qYXIvZHMudHh0"]}]}],
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
    "warningText": "有事做有所期待，日子就是幸福的。", 
    "rules":[
