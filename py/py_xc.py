@@ -5,7 +5,7 @@
 {"key":"csp_DouDou","name":"🎧豆瓣┃评分","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_XBPQ_预告0308","name":"🍬预告片","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"首页":"正在热映","图片代理":"","分类url":"https://movie.douban.com/{cateId}/;;aRC","分类":"即将上映$cinema/later#正在热映$cinema/nowplaying","数组":"class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>","图片":"src=\"&&\"","标题":"\"intro\">&&</a>","链接":"href=\"&&\"","副标题":"data-score=\"&&\"+class=\"release-date\">&&</li>","播放数组":"<li class=\"video&&</li>","播放列表":"<a&&</a>","播放标题":"alt=\"&&\"","播放链接":"https://m.douban.com+href=\"&&\""}},
 {"key":"广播频道","name":"📡广播电台","type":3,"api":"./live2mv.js","changeable":0,"ext":"广播电台$./广播频道.txt"},
-{"key": "秒播","name": "⚡秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./秒播.json","jar": "./XBPQ (0322).jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
+{"key": "秒播","name": "⚡秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/xxpctv/dz/raw/master/lib/秒播.json","jar": "./XBPQ (0322).jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 {"key":"酷看0403","name":"🍈酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./danmu.jar;md5;1D0A74FF670D78850FD443840FB66C88"},
 {"key": "酷看","name": "🍈酷看2","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./kkys.jar;md5;D275081B5B9F999614A1930AA7599CB9"},
 {"key":"歌曲0222","name":"🎙️歌曲","type":3,"api":"csp_Bili","ext":"./bili歌曲.json"},
