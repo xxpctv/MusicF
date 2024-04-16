@@ -152,7 +152,7 @@
 {"key": "csp_XYQBiu_斗鱼","name": "🐟斗鱼直播","type": 3,"api": "./js/drpy.min.js","ext": "./斗鱼直播.js","searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key": "csp_XYQHiker_兔小贝","name":"兔小贝(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./兔小贝.json"},
 
-{"key":"蜻蜓FM1223","name":"🚦蜻蜓FM🚦","type":3,"api":"./drpy2.min.js","changeable":0,"ext":"./蜻蜓FM.js"},
+{"key":"蜻蜓FM1223","name":"🚦蜻蜓FM🚦","type":3,"api":"./drpy2.min.js","changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/xxpctv/dr_py/main/js/%E8%9C%BB%E8%9C%93FM.js"},
 {"key": "酷奇js","name": "🎤酷奇┃MV","type": 3,"api": "./drpy2.min.js","ext": "./酷奇MV.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 {"key": "哔哩DL0303","name": "锻炼身体","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./锻炼身体.json"},
