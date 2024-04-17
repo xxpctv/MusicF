@@ -16,7 +16,6 @@
 {"key": "4klg0228","name": "🔨原盘4k","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./中国蓝光网.json","jar": "./XYQHiker.jar;md5;BD6F5842B96A6FBAB059CCBC01F40E6B"},
 {"key":"歌曲0222","name":"🎙️歌曲","type":3,"api":"csp_Bili","ext":"./bili歌曲.json","jar": "./XYQHiker.jar;md5;BD6F5842B96A6FBAB059CCBC01F40E6B"},
 {"key":"JRKAN直播","name":"⛹️赛事直播","type":3,"api":"./drpy.min.js","playerType":"1","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JRKANvs.js"},
-{"key": "kanqiuopen","name": "🐳88直播","type": 3,"playerType":1,"api": "./kanqiu88_open.js","searchable": 0,"changeable": 0,"style": {"type": "list"}},
 {"key":"360ba_open2","name":"🐳粤语直播","type":3,"playerType":"1","api":"./360ba_open.js"},
 {"key": "T4-360kq0331","name": "🐳粤语t4","type": 4,"api": "https://catbox.n13.club/360kq.php","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": true},
 {"key":"yinyuetai_open2","name":"🐳音悦台","type":3,"api":"./yinyuetai_open.js"},
