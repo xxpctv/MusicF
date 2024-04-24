@@ -47,7 +47,7 @@
 {"name":"CCTV10","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$超清1080P"]},
 {"name":"CCTV11","urls":["http://39.134.67.226/PLTV/88888888/224/3221225517/index.m3u8$超清1080P"]},
 {"name":"CCTV12","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$超清1080P"]},
-{"name":"CCTV13","urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$超清1080P"]},
+{"name":"CCTV13","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$超清1080P"]},
 {"name":"CCTV14","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$超清1080P"]},
 {"name":"CCTV15","urls":["http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8$超清1080P"]},
 {"name":"CCTV16","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$超清1080P"]},
@@ -96,18 +96,17 @@
 {"name":"黑龙江卫视","urls":["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226014/index.m3u8","http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226033/index.m3u8"]}
 ]},
 {"group": "地方","channels": [
+{"name":"广东珠江","urls":["http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146"]},
+{"name":"广东珠江","urls":["http://xnzy1.coms.su/cdian.php?id=gdzj"]},
+{"name":"广东体育","urls":["http://219.137.29.213:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0"]},
+{"name":"凤凰中文","urls":["http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc"]},
 {"name":"凤凰中文","urls":["http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8"]},
 {"name":"凤凰中文","urls":["http://mywlkj.ddns.net:754/tv/fhzw.m3u8"]},
-{"name":"凤凰中文","urls":["http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc"]},
 {"name":"凤凰中文","urls":["http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv"]},
 {"name":"凤凰中文","urls":["http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8"]},
 {"name":"凤凰资讯","urls":["http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8"]},
 {"name":"凤凰资讯","urls":["http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc"]},
-{"name":"凤凰资讯","urls":["http://171.108.239.95:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0"]},
-{"name":"翡翠台","urls":["https://iptv.hiper25.com/TVB/video.m3u8"]},
-{"name":"广东珠江","urls":["http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146"]},
-{"name":"广东珠江","urls":["http://125.89.163.44:8888/udp/239.77.0.1:5146"]},
-{"name":"广东体育","urls":["http://219.137.29.213:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0"]}
+{"name":"凤凰资讯","urls":["https://dl.zhoujie218.top/new/fhx.php?id=fhzx"]}
 ]}
 ],
 "parses": [
