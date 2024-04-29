@@ -1,7 +1,8 @@
 var rule = {
     title: "88看球",
     // host:'http://www.88kanqiu.cc',
-    host: "http://www.88kanqiu.live",
+    //host: "http://www.88kanqiu.live",
+    host: "http://www.88kanqiu.love/",
     url: "/match/fyclass/live",
     searchUrl: "",
     searchable: 0,
@@ -41,7 +42,7 @@ var rule = {
         img: "img&&src",
         desc: ";;;div.team-name:eq(0)&&Text;div.team-name:eq(1)&&Text",
         content: "div.game-time&&Text",
-        tabs: "js:TABS=['道长在线']",
+        tabs: "js:TABS=['mh在线']",
         lists: `js:
             LISTS=[];
             let html = request(input);
