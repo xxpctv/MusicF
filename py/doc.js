@@ -12,8 +12,11 @@ var rule = {
     headers:{
         'User-Agent':'PC_UA',
         "Referer": "https://www.bilibili.com",
-        //"Cookie":"DedeUserID=701168335;DedeUserID__ckMd5=7219483457203958;SESSDATA=772c448a%2C1695181918%2C8ab46%2A31;bili_jct=a7fb0ac6258206e8fa84ca951c7bee09;"
-        "Cookie":"DedeUserID=3493271303096985;DedeUserID__ckMd5=212a836c164605b7;SESSDATA=7624af93%2C1696008331%2C862c8%2A42;bili_jct=141a474ef3ce8cf2fedf384e68f6625d;"
+        "Cookie":"SESSDATA=4e16d2db%2C1730625321%2C4e534%2A52CjCjC__Wo5G4rMrJjOGFfUImVXW10gOJrO1rfrrpMIu24xylgpJl45zwJsb12dmDcvoSVkk0dktmaDMybEZPOFY4UEJ4a1VVMHdJZVVfMEdEVHpCeXFyc3ctQnJ2RlVZX3YydHkxa0VUdVdiYWlqZWFfSUw3c2NybXJLbnZlc2o3QzZnOXJGOG9BIIEC; bili_jct=e7ec17ce70782e0b9898415a78851869; DedeUserID=701168335;DedeUserID__ckMd5=7219483457203958;"
+
+         
+
+        //"Cookie":"DedeUserID=3493271303096985;DedeUserID__ckMd5=7b86f3894ed7f8c0;SESSDATA=2d6f63c8%2C1684568607%2C19eb6%2Ab1;bili_jct=21d538b01566c26afc81ff68c2ac7dca;"
     },
     timeout:5000,
     class_name:'历史&人文&宇宙&自然&动物&科技&美食&探险',
@@ -44,5 +47,5 @@ var rule = {
     搜索:'',
     搜索:'js:let url1=input+"media_bangumi";let url2=input+"media_ft";let html=request(url1);let msg=JSON.parse(html).message;if(msg!=="0"){VODS=[{vod_name:KEY+"➢"+msg,vod_id:"no_data",vod_remarks:"别点,缺少bili_cookie",vod_pic:"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/404.jpg"}]}else{let jo1=JSON.parse(html).data;html=request(url2);let jo2=JSON.parse(html).data;let videos=[];let vodList=[];if(jo1["numResults"]===0){vodList=jo2["result"]}else if(jo2["numResults"]===0){vodList=jo1["result"]}else{vodList=jo1["result"].concat(jo2["result"])}vodList.forEach(function(vod){let aid=(vod["season_id"]+"").trim();let title=KEY+"➢"+vod["title"].trim().replace(\'<em class="keyword">\',"").replace("</em>","");let img=vod["cover"].trim();let remark=vod["index_show"];videos.push({vod_id:aid,vod_name:title,vod_pic:img,vod_remarks:remark})});VODS=videos}',
     lazy:'',
-    lazy:'js:if(/^http/.test(input)){input={jx:1,url:input,parse:0,header:JSON.stringify({"user-agent":"Mozilla/5.0"})}}else{let ids=input.split("_");let result={};let url="https://api.bilibili.com/pgc/player/web/playurl?qn=116&ep_id="+ids[0]+"&cid="+ids[1];let html=request(url);let jRoot=JSON.parse(html);if(jRoot["message"]!=="success"){print("需要大会员权限才能观看");input=""}else{let jo=jRoot["result"];let ja=jo["durl"];let maxSize=-1;let position=-1;ja.forEach(function(tmpJo,i){if(maxSize<Number(tmpJo["size"])){maxSize=Number(tmpJo["size"]);position=i}});let url="";if(ja.length>0){if(position===-1){position=0}url=ja[position]["url"]}result["parse"]=0;result["playUrl"]="";result["url"]=url;result["header"]={Referer:"https://www.bilibili.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"};result["contentType"]="video/x-flv";input=result}}',
+    lazy:'js:if(/^http/.test(input)){input={jx:1,url:input,parse:0,header:JSON.stringify({"user-agent":"Mozilla/5.0"})}}else{let ids=input.split("_");let result={};let url="https://api.bilibili.com/pgc/player/web/playurl?qn=80&ep_id="+ids[0]+"&cid="+ids[1];let html=request(url);let jRoot=JSON.parse(html);if(jRoot["message"]!=="success"){print("需要大会员权限才能观看");input=""}else{let jo=jRoot["result"];let ja=jo["durl"];let maxSize=-1;let position=-1;ja.forEach(function(tmpJo,i){if(maxSize<Number(tmpJo["size"])){maxSize=Number(tmpJo["size"]);position=i}});let url="";if(ja.length>0){if(position===-1){position=0}url=ja[position]["url"]}result["parse"]=0;result["playUrl"]="";result["url"]=url;result["header"]={Referer:"https://www.bilibili.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"};result["contentType"]="video/x-flv";input=result}}',
 }
