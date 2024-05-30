@@ -1,5 +1,5 @@
 {
-"cookie":"https://notabug.org/xxpctv/dz/raw/master/bili/bilicok.txt",
+"cookie":"https://gitea.com/pc/myds/raw/branch/main/bootdo/src/bilicok.txt",
 
 "classes":[
 {"type_name":"台球","type_id":"台球"},
@@ -8,7 +8,7 @@
 {"type_name":"演唱会","type_id":"演唱会"},
 {"type_name":"Unreal","type_id":"Unreal"},
 {"type_name":"Houdini","type_id":"Houdini"}
-],
+]，
 
 "filter":{
 
@@ -21,14 +21,14 @@
 {"n":"台球杆法","v":"台球杆法"},
 {"n":"台球瞄准","v":"台球瞄准"},
 {"n":"台球教学","v":"台球教学"}
-]},
+]}，
 {"key":"duration","name":"时长","value":[
 {"n":"全部","v":"0"},
 {"n":"60分钟以上","v":"4"},
 {"n":"30~60分钟","v":"3"},
 {"n":"10~30分钟","v":"2"},
 {"n":"10分钟以下","v":"1"}]}
-],
+]，
 
 "Unreal":[
 {"key":"tid","name":"分类","value":[
@@ -42,14 +42,14 @@
 {"n":"ue蓝图","v":"ue蓝图"},
 {"n":"定序器","v":"定序器"},
 {"n":"ue渲染","v":"ue渲染"}
-]},
+]}，
 {"key":"duration","name":"时长","value":[
 {"n":"全部","v":"0"},
 {"n":"60分钟以上","v":"4"},
 {"n":"30~60分钟","v":"3"},
 {"n":"10~30分钟","v":"2"},
 {"n":"10分钟以下","v":"1"}]}
-],
+]，
 
 "Houdini":[
 {"key":"tid","name":"分类","value":[
@@ -59,7 +59,7 @@
 {"n":"Houdini流体","v":"Houdini流体"},
 {"n":"Houdini破碎","v":"Houdini破碎"},
 {"n":"Houdini渲染","v":"Houdini渲染"}
-]},
+]}，
 {"key":"duration","name":"时长","value":[
 {"n":"全部","v":"0"},
 {"n":"60分钟以上","v":"4"},
