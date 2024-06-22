@@ -1,0 +1,3317 @@
+{
+	"sites": [
+	        {
+
+           "key":"火狐资源","name":"📺🎬举家欢乐私人影院🌏","type":1,
+"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
+"categories":["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","记录片","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"],"searchable":1,"quickSearch":1},
+
+{    
+        
+        
+          
+            
+       
+      "key": "高考",
+      "name": "👉💞 高考加油站考试卷精讲🏆",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://154.37.152.74:8888/down/PNjhg3jvkpP0.json"
+    },
+
+  {
+ "key": "英语学习大全",
+      "name": "📚🅱️英语学习大全🅱️",
+      "type": 3,
+      "api": "csp_Bili",
+     
+     
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/TDYesag0Y3kc.json"
+    },
+    
+        {
+
+
+   "key": "学生全版本教材辅导",
+      "name": "📚🅱️学生全版本教材辅导",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/7MXRrrob1lXh.json"
+    },
+    
+        {
+    
+  
+    
+"key": "小学到高中语文教学",
+"name": "📚♻️小学到高中语文教学",
+"type": 3,
+"api": "csp_Bili",
+"searchable":0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "http://154.37.152.74:8888/down/0LK88dfQ7ACw.json",
+"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+{
+
+
+"key": "小学到高中数学教学",
+"name": "📚♻️小学到高中数学教学",
+"type": 3,
+"api": "csp_Bili",
+"searchable":0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "http://154.37.152.74:8888/down/1SEK4EW5mFFM.json",
+"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+{
+
+
+"key": "小学到高中英语教学",
+"name": "📚♻️小学到高中英语教学",
+"type": 3,
+"api": "csp_Bili",
+"searchable":0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "http://154.37.152.74:8888/down/Vh0Sh2Zzmy88.json",
+"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+{
+
+"key": "初中到高中物理教学",
+"name": "📚♻️初中到高中物理教学",
+"type": 3,
+"api": "csp_Bili",
+"searchable":0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "http://154.37.152.74:8888/down/fN48lcwCueV8.json",
+"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+{
+
+
+"key": "初中到高中化学教学",
+"name": "📚♻️初中到高中化学教学",
+"type": 3,
+"api": "csp_Bili",
+"searchable":0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "http://154.37.152.74:8888/down/P4k1p7MQa7V9.json",
+"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+{
+
+"key": "初中到高中史地教学",
+"name": "📚♻️初中到高中史地教学",
+"type": 3,
+"api": "csp_Bili",
+"searchable":0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "http://154.37.152.74:8888/down/gtPly7FMlpMX.json",
+"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+{
+
+
+ 
+
+		 
+ 
+
+    
+    
+   "key":"幼儿启蒙","name":"📚🌏幼儿启蒙教育专区","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+"ext":"http://154.37.152.74:8888/down/FOazGcXRDEb1.json","jar": ""},      
+   {
+		 
+  "key": "宝宝巴士",
+      "name": "📚🌏幼儿宝宝巴士学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://154.37.152.74:8888/down/sdbC7hDFiUBT.json"
+    },
+    {
+
+ "key": "幼儿动画学习启蒙",
+            "name": "📚🌏幼儿动画学习启蒙导📚🌏学习内容欢迎定制",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+     "ext":"http://154.37.152.74:8888/down/pERutiySfKL8.json", "jar":""},  
+    {
+
+"key":"幼儿启蒙","name":"📚🌏幼儿学十万为什么么","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+"ext":"http://154.37.152.74:8888/down/2uQwMbbfd7Lu.json","jar": ""}, 
+   
+        	  { 
+
+
+"key":"幼儿启蒙","name":"📚🌏幼儿学习百家姓么","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+"ext":"http://154.37.152.74:8888/down/Zs7AHpJlGRrN.json","jar": ""}, 
+   
+        	  { 
+
+
+"key":"幼儿启蒙","name":"📚🌏幼儿学古诗弟子归规","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+"ext":"http://154.37.152.74:8888/down/eKqdj2Trl0N1.json","jar": ""}, 
+   
+        	  { 
+
+
+ "key": "小灯塔百科",
+      "name": "📚🌏幼儿动物植物启蒙",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/usUVFlgeG8Ch.jar",
+      "ext": "http://154.37.152.74:8888/down/ZSUbOCO3KRHu.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "📚🌏幼儿财商启蒙学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/usUVFlgeG8Ch.jar",
+      "ext": "http://154.37.152.74:8888/down/X1SyvrQdOCa1.json"
+    },
+    {
+     
+     
+   
+
+ "key":"幼小衔接","name":"📚🌏幼儿学前班衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/9Fc2xwT6xV8j.json","jar": ""},
+    {
+              
+            "key":"幼儿国学",
+            "name":"📚🌏幼儿国学知识学习",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://154.37.152.74:8888/down/8NyFfuA6FVpn.json",
+            "jar": ""
+        },
+        
+        {
+           
+            "key":"儿童拼音",
+            "name":"📚🌏幼儿拼音知识学习",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://154.37.152.74:8888/down/YEqBhZzgZYFX.json",
+            "jar": ""
+        },
+        
+        {
+            "key":"儿童识字",
+            "name":"📚🌏幼儿识字训练学习",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://154.37.152.74:8888/down/9f2Rzk4HAwYm.json",
+            "jar": ""
+        },
+        
+        {
+            "key":"儿童英语",
+            "name":"📚🌏幼儿英语知识学习",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://154.37.152.74:8888/down/lppoKKljwPCb.json",
+            "jar": ""
+        },
+        {
+           "key":"小灯塔科学","name":"📚🌏幼儿科学知识学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,
+"filterable":1,"ext":"http://154.37.152.74:8888/down/SJplMqzt6CHR.txt","jar": ""},
+		{"key":"小灯塔地理","name":"📚🌏幼儿地理知识学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/tNQIW9nbUZCN.json","jar": ""},
+		{"key":"小灯塔人文","name":"📚🌏幼儿人文知识学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/WsXEC9HNslz3.json","jar": ""},
+		{ 
+            
+        "key":"儿童硬笔",
+        "name":"📚🌏幼儿硬笔知识学习  ",
+        "type":3,
+        "api":"csp_Bili",
+        "searchable":0,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"http://154.37.152.74:8888/down/QI50tGzMR8UY.json",
+        "jar": ""
+        },
+        {
+            "key":"儿童思维",
+        "name":"📚🌏幼儿思维知识学习 ",
+        "type":3,
+        "api":"csp_Bili",
+        "searchable":0,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"http://154.37.152.74:8888/down/0ptQiLYTBIQP.json",
+        "jar": ""
+        },
+        {
+            "key":"儿童口才",
+            "name":"📚🌏幼儿口才机能学习",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://154.37.152.74:8888/down/RnVV4pAGCfFd.json",
+            "jar": ""
+        },
+        
+        {
+        "key":"儿童编程",
+        "name":"📚🌏幼儿编程知识学习",
+        "type":3,
+        "api":"csp_Bili",
+        "searchable":0,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"http://154.37.152.74:8888/down/TzXvyMWv0rcs.json",
+        "jar": ""
+        },
+        
+        {
+        "key":"儿童武术",
+        "name":"📚🌏幼儿武术知识学习",
+        "type":3,
+        "api":"csp_Bili",
+        "searchable":0,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"http://154.37.152.74:8888/down/7j6leMAwcTS1.json",
+        "jar": ""
+    },
+
+        {
+        "key":"兴趣培养",
+        "name":"📚🌏幼儿兴趣培养学习",
+        "type":3,
+        "api":"csp_Bili",
+        "searchable":0,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"http://154.37.152.74:8888/down/PsLWGhoV0Hmz.json",
+        "jar": ""
+        },
+   {
+     
+	    
+	 
+   "key": "小灯塔地理",
+      "name": "📚🌏幼儿地理知识学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/LOcl8qbhgrJR.json"
+    },
+    {
+		 
+   
+ 
+            
+	      "key":"csp_儿童早教启蒙",
+    "name":"📚🌏幼儿早教启蒙教育",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/obRtBFDTskIz.json" 
+     },
+    {   
+	"key": "益智",
+            "name": " 📚🌏幼儿益智动画学习",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+     "ext":"http://154.37.152.74:8888/down/MyV0xeIjAo9r.json", "jar":""},  
+    {
+
+	   
+	   
+	    "key":"csp_儿童知识乐园",
+    "name":"📚🌏儿童课外知识乐园",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/9FqCEpY5jUaI.json" 
+     },
+    {
+
+      
+    "key": "学堂",
+"name": "📚♻️幼儿到高中全科教学",
+"type": 3,
+"api": "csp_Bili",
+"searchable":0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "http://154.37.152.74:8888/down/nMvSwuJWRFGA.json",
+"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+{
+
+
+
+ 
+
+ "key": "小学初高中人教版课程",
+      "name": "📚🅱️小学初高中人教版课程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/9FAkKu6X17a7.json"
+    },
+    
+        {
+
+ "key": "小学初高中北师大版课程",
+      "name": "📚🅱️小学初高中北师大版课程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/sfuoigFJQEZ2.json"
+    },
+    
+        {
+
+
+ "key": "小学初高中苏教版课程",
+      "name": "📚🅱️小学初高中苏教版课程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/xb88BYh830BJ.json"
+    },
+    
+        {
+    
+
+
+
+
+
+
+ "key": "沪教版课程",
+     "name": "📚🅱️小学初高中沪教版课程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/KWWOv1jhdMzv.json"
+    },
+    
+        {
+    
+
+
+   
+      "key": "哔哩小学",
+      "name": "🅱️🏆小学同步教育课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/h7B8Fo3Z4yZW.json"
+    },
+    {
+      "key": "哔哩初中",
+      "name": "🅱️🏆初中同步教育课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/tbJoubjnDyyy.json"
+    },
+    {
+      "key": "哔哩高中",
+      "name": "🅱️🏆高中同步教育课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/bOCmQJV5gZHl.json"
+    },
+    {
+    
+     "key":"儿童","name":"📚🏆幼儿课外学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/dvKSyG1AfwjN.json"},
+    
+    {"key":"小学","name":"📚🏆小学课外学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/ezKtccJEjyJ5.json"},
+    
+    {"key":"初中","name":"📚🏆初中课外学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/PTuMeAeaa8ih.json"},
+    
+    {"key":"高中","name":"📚🏆高中课外学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/O624gIcKpfQW.json"},
+    
+    {
+    "key":"学外语","name":"🧡💋快乐学外语私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"http://154.37.152.74:8888/down/Q0BggIjrNBGx.json"},
+{ 
+			
+      
+      
+			 
+			"key": "少儿教育",
+			"name": "📚🏆少儿在线教育",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "http://154.37.152.74:8888/down/6MvxNpUIehuR.json"
+		}, {
+			"key": "小学课堂",
+			"name": "📚🏆小学在线课堂",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "http://154.37.152.74:8888/down/IeHx4OuI1sev.json"
+		}, {
+			"key": "初中课堂",
+			"name": "📚🏆初中在线课堂",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "http://154.37.152.74:8888/down/jdxIBBnF50oQ.json"
+		}, {
+			"key": "高中教育",
+			"name": "📚🏆高中在线课堂",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "http://154.37.152.74:8888/down/v3VXIkovOJXQ.json"
+		}, {
+ "key":"学生考试课外辅导","name":"🛰🅱️学生考试课外辅导📚🌏学习内容欢迎定制","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/54iBpWgLp1oP.json"
+  },
+
+  {
+
+"key": "ysjd",
+            "name": "🅱️️🌏成人学习专区",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+"ext":"https://jihulab.com/ymz1231/json/-/raw/main/央视经典.json", "jar":""
+
+},
+    {
+"key": "吾爱英语",
+      "name": "🛰🅱️外语学习私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/8WiycaSdfb9f.json"
+    },
+    {
+     "key":"知今日头条私人讲座私人影院","name":"🛰🅱️今日头条私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/FD4n6pYkkmPn.json"
+ },
+    {
+         
+	  "key": "Biliych",
+			"name": "🛰🅱️明星演唱私人影院",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "http://154.37.152.74:8888/down/yrjfTixlA2Zx.json"
+		}, { 
+ "key": "相声小品",
+      "name": "🛰🅱️相声小品私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/1TDsKmhVhwZQ.json"
+    },
+    {
+"key":"知杂技私人讲座私人影院","name":"🛰🅱️杂技魔术私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/YO4sY5NToM1G.json"
+ },
+    {
+     
+      "key": "吾爱户外",
+      "name": "🛰🅱️户外运动私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/p4OhfxrIQm7s.json"
+    },
+    {
+
+ 
+      "key": "天下美食",
+      "name": "🛰🅱️天下美食私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/DeDpUMCLALfX.json"
+    },
+    {
+      "key": "戏曲杂苑",
+      "name": "🛰🅱️戏曲杂苑私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/CbC3uFlvilfr.json"
+    },
+
+    {
+"key":"最新电影电视欣赏","name":"🛰🅱️最新港台电视剧欣赏","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/mWDdLTGkNrGl.json"},
+
+    {
+
+ "key": "csp_XPath_鹅直播",
+      "name": "🛰🅱️体育直播私人影院院🌏成人学习内容欢迎定制15362026078",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://154.37.152.74:8888/down/FYDQAKVtP4rN.json"
+ },
+    
+        
+
+{
+
+
+
+ "key": "吾爱球星",
+      "name": "🛰🅱️足球明星私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/CpEPtljrZAOz.json"
+
+ },
+    
+        
+
+{
+ "key":"健康知识私人影院","name":"🛰🅱️健康知识私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/if322rzbrEjX.json"},
+    
+    {
+
+
+"key":"名人讲坛私人影院","name":"🛰🅱️名人讲坛私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/13DrvPAAhwNR.json"
+ },
+    {
+
+ "key":"法治在线私人影院","name":"🛰🅱️️法治在线私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/RSCxZYkrmKXA.json"},
+    
+    {
+
+
+"key":"知识讲座私人影院","name":"🛰🅱️知识讲座私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/Bf0yfzkNsPCb.json"
+ },
+    {
+
+
+      "key": "哔哩音乐",
+      "name": "🛰🅱️️音乐欣赏私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/TqGJlfS7i8Ws.json"
+    },
+    
+
+ {
+
+      "key": "短剧",
+      "name": "🛰🅱️短剧欣赏私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://154.37.152.74:8888/down/GAwjiPpmC91h.M3U"
+    },
+
+
+  {
+     
+      
+      
+      "key": "搭讪",
+      "name": "🛰🅱️搭讪技巧私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://154.37.152.74:8888/down/WOZUUC1JzahG.json"
+    },
+
+
+   {
+      
+
+  
+    
+        
+
+   
+
+
+     
+      
+      "key": "解说",
+      "name": "🛰🅱️电影解说私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://154.37.152.74:8888/down/sSBd6FUJnAWH.json"
+    },
+
+
+
+   {
+      "key": "体育",
+      "name": "🛰🅱️体育比赛私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://154.37.152.74:8888/down/TLDVqVjLyhdM.json"
+    },
+
+
+   {
+      
+     
+      "key": "棋牌",
+      "name": "🛰🅱️棋牌娱乐私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://154.37.152.74:8888/down/HWZ0MW1KkiY2.json"
+    },
+
+
+   {
+       
+ 
+
+  
+      "key": "兴趣健身",
+      "name": "🛰🅱️兴趣健身私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/gDdVrNx5IJda.lson"
+    },
+    {
+     
+       
+      "key": "NoSearch_csp_BBB",
+      "name": "🛰🅱️娱乐视频私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/v906ZzHrtR6r.json"
+    },
+    
+        {
+       
+          "key": "足球",
+      "name": "🛰🅱️足球爱好私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://154.37.152.74:8888/down/uWJMBjqmwyPj.json"
+    },  
+    {
+      
+ 
+   
+     	   
+	  "key": "企鹅体育xp",
+			"name": "🛰🅱️体育欣赏私人影院",
+			"type": 3,
+			"api": "csp_XPath",
+			"style": {
+				"type": "list"
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "http://154.37.152.74:8888/down/nxafwuJzFSik.json"
+		}, {
+			 
+			"key": "MTV",
+			"name": "🛰🅱️明星MV 私人影院",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "http://154.37.152.74:8888/down/HFbnx4STZgBu.json"
+		}, { 
+
+      "key": "央视经典",
+      "name": "🛰🅱️央视经典私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+      "ext": "http://154.37.152.74:8888/down/j4jfibwWQorP.json"
+    },
+  
+    {
+       "key":"csp_XPath3_88","name":"🛰🅱️比赛看球私人影院","type":3,"api":"XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/z3aeZOfeOOBq.json"},
+{
+ 
+ 
+ 
+
+"key":"xp_体育赛事","name":"🛰🅱️体育赛事私人影院","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://154.37.152.74:8888/down/wBIo2duc1jCg.json"},
+	
+{ 
+        
+
+"key":"女团热舞","name":"💃🅱️广场热舞私人影院","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://154.37.152.74:8888/down/lNpizJ3H60xD.json"},
+{ 
+"key": "吾爱乐器",
+      "name": "🛰🅱️️吹拉弹唱私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/pE2RfpjBHTAB.json"
+    },
+    {
+ 
+"key": "球类","name": "🛰🅱️球类运动私人影院","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/cOaGTW1neGbf.json"},
+{ 
+ "key": "吾爱搭配",
+      "name": "🛰🅱️️穿衣搭配私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/g9ygjzBZLJ2k.json"
+    },
+    {
+
+"key": "歌舞","name": "🛰🅱️印度歌舞私人影院院🌏成人学习内容欢迎定制15362026078","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/T4GNlbBejeZr.json"},
+  {
+
+"key": "足球","name": "🛰🅱️足球赛场私人影院","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/p30ERKSb7PK8.json","jar":"https://notabug.org/yzzsjc/TVBox-Pro/raw/master/jar/bili.jar"},
+{
+
+"key": "车模","name": "🛰🅱️美女车模私人影院","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/TnIOTcXn9hck.json"},
+{"key": "小姐姐","name": "🛰🅱️美女模特私人影院","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/RJaYYDw2E5A6.json"},
+{
+
+ 
+
+
+  
+        
+
+
+"key":"哔哩哔哩","name":"🛰🅱️探索发现纪录片","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/ANo68EvMu4IH.json"},
+{ 
+
+
+
+
+ 
+
+
+
+ "key": "动物世界私人影院",
+      "name": "🛰🅱️动物世界私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/pXRWKxeDUUwN.json"
+    },
+    
+        {
+
+
+   
+
+     "key":"csp_软件教程",
+    "name":"🛰🅱️电脑软件教程学习",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/11VJGnNrA4It.json"
+    },
+    {
+         "key": "Excel教程",
+      "name": "🛰🅱️xcel教程学习私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/yekS0lCFxVNS.json"
+    },
+    {
+
+     "key": "PS",
+      "name": "🛰🅱️电脑图片教程学习",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/MybFPUEB2LsN.txt"
+    },
+    {
+
+
+ "key": "PS","name": "🛰🅱️电脑PS教程私人影院","type": 3,"api": "csp_Bili",
+"searchable": 0,"quickSearch": 0,"filterable": 1,
+"ext"		 
+   : "http://154.37.152.74:8888/down/EbQNftDufWXt.json"},
+{ 
+
+  
+    "key":"csp_哔哩全集",
+    "name":"🛰🅱️戏️曲相声私人影院",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/eyjW414L40b6.json"
+   },
+    {
+    "key":"csp_戏曲合集",
+    "name":"🛰🅱️舞台戏曲私人影院",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/Fmyca7QaMYPN.json"
+
+    },
+    {
+   
+    "key":"csp_美食天地",
+    "name":"🛰🅱️美食美味私人影院",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/3Um9UEN12zKI.json"
+     },
+    {
+    "key":"csp_棋牌娱乐",
+    "name":"🛰🅱️棋牌娱乐私人影院",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/L5tuXaVpmiHw.json"
+    },
+    {
+   
+   
+
+    
+
+
+  
+     "key":"csp_软件教程",
+    "name":"🛰🅱️电脑教程私人影院",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/T1kbKG6eJc3I.json"
+    },
+    {
+
+     "key": "PS",
+      "name": "🛰🅱️图片教程私人影院",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/WCbHHulPAMiC.json"
+    },
+    {
+
+
+  
+  
+    "key":"csp_戏曲合集",
+    "name":"🛰🅱️舞台戏曲私人影院",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/c1GGgB4Sppcs.json"
+
+    },
+    {
+   
+    "key":"csp_美食天地",
+    "name":"🛰🅱️美食天地私人影院",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/RMGxQ4CqfKNX.json"
+     },
+    {
+    "key":"csp_棋牌娱乐",
+    "name":"🛰🅱️棋牌休闲私人影院院🌏成人学习内容欢迎定制15362026078",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/Ay9OWDuuGuLZ.json"
+    },
+    {
+   
+ "key": "美食食谱",
+      "name": "🛰🅱️美食食谱私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://154.37.152.74:8888/down/HkkeeuVutSsK.json"
+
+ },
+    {
+
+
+ "key": "旅游风景",
+      "name": "🛰🅱️旅游风景私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://154.37.152.74:8888/down/MyjbVAObkJuH.json"
+
+ },
+    {
+ "key": "太极拳健身",
+      "name": "🛰🅱️太极健身私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://154.37.152.74:8888/down/kmrL1cyPhAyT.json"
+
+ },
+    {
+
+
+ "key": "广场舞",
+      "name": "🛰🅱️广场舞私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://154.37.152.74:8888/down/3k1EKLQLNrp9.json"
+
+ },
+    {
+
+ "key": "纪录片",
+      "name": "🛰🅱️纪录片私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://154.37.152.74:8888/down/mAc26RQyEA4x.json"
+
+ },
+    {
+ "key": "名人演讲私人影院",
+      "name": "🛰🅱️名人演讲私人影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/3fNy1wK3vdCH.json"
+
+
+    },
+    
+        {
+
+
+ "key": "考公考证",
+      "name": "🛰🅱️考公考证学习影院",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://154.37.152.74:8888/down/YQkkCPp357zx.json"
+
+ },
+    {
+		 
+
+    "key": "csp_Anime1",
+      "name": "🛰🅱️日本动画私人影院",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+  
+
+
+ 
+       
+
+      "key": "Aid",
+      "name": "🛰🅱️急救教学私人影院",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+        {
+ 
+"key": "口腔保健私人影院合集",
+"name": "💋🅱️口腔保健私人影院",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext":"http://154.37.152.74:8888/down/mLNrLY95M0A1.json"}, {
+
+            
+            
+            
+             "key":"中医中药","name":"🛰🅱️中医中药私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/o9DNqfC51glg.json"
+
+},
+
+  {  "key":"csp_xpath_huyam","name":"🛰🅱️虎牙视频私人影院","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"http://154.37.152.74:8888/down/G3d0gPO8qDox.json"},
+{
+
+      "key": "csp_Yj1211","name": "🛰🅱️网红直播私人影院🌏成人学习内容欢迎定制15362026078","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1 }, {
+      "key": "魔都动漫",
+            "name": "📺刻苦钻研动漫影厅",
+            "type": 1,
+            "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+              "playUrl": "https://hd.iapijy.com/play?url=",
+           "searchable": 1,
+           "ext": "",
+            "quickSearch": 1,
+            "categories": ""
+          
+         },
+    {
+ 
+
+    
+      "key":"️动漫巴士私人影","name":"🛰🅱️动漫巴士私人影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/RTCF7VZNN47W.json"},
+{"key":"樱花动漫私人影","name":"🛰🅱️樱花动漫私人影院·","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/C86FgK0xNIe8.json"},
+{ 
+      
+
+       
+	    "key": "ysjd",
+            "name": "🅱️🌏成人学习娱乐专区📡📺恭喜发财私人影院",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+"ext":"https://jihulab.com/ymz1231/json/-/raw/main/央视经典.json", "jar":""
+
+     
+ },
+    {        
+	  
+
+            "key": "量子资源",
+            "name": "📡📺生意兴隆私人影院🌏📺使用搜索快速找到视频",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playurl": "json:https://tvmvip.com/lz2.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
+        },
+		{
+			
+
+  
+      
+                  "key": "QQ单独采集json接口",
+				"name": "💞📺腾讯视频私人影院",
+				"type": 1,
+				"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/qq/?ac=list ",
+				"searchable": 1,
+                  "playUrl": "https://jx.xmflv.com/?url=",
+				"quickSearch": 1,
+				"filterable": 1,
+				 "categories": ""
+				
+    },
+    {
+
+                 "key": "qiyi单独采集json接口",
+				"name": "💞📺爱奇艺私人影院",
+				"type": 1,
+			"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/qiyi/?ac=list",
+				"searchable": 1,
+                 "playUrl": "https://jx.xmflv.com/?url=",
+				"quickSearch": 1,
+				"filterable": 1,
+				 "categories": ""
+    },
+    {
+     
+
+                 "key": " youku单独采集json接口",
+				"name": "💞📺 优酷视频私人影院",
+				"type": 1,
+				"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/youku/?ac=list",
+				"searchable": 1,
+                  "playUrl": "https://jx.xmflv.com/?url=",
+				"quickSearch": 1,
+				"filterable": 1,
+				 "categories": ""
+    },
+    {
+
+
+                  "key": " mgtv单独采集json接口",
+				"name": "💞📺 芒果视频私人影院",
+				"type": 1,
+				"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/mgtv/?ac=list",
+				"searchable": 1,
+                 "playUrl": "https://jx.xmflv.com/?url=",
+				"quickSearch": 1,
+				"filterable": 1,
+				 "categories": ""
+    },
+    {
+                 
+
+                  "key": " sohu单独采集json接口",
+				"name": "️💞📺 搜狐视频私人影院",
+				"type": 1,
+				"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/sohu/?ac=list",
+				"searchable": 1,
+                   "playUrl": "https://jx.aidouer.net/?url=",
+				"quickSearch": 1,
+				"filterable": 1,
+				 "categories": ""
+    },
+    {
+     
+        
+      
+      
+      
+ "key": "csp_SNzy",
+      "name": "📡📺爱家人蓝光私人影院📺🌏不要相信视频中任何广告",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "爽文短剧",
+        "韩剧",
+        "泰剧", 
+        "港剧",
+        "日剧",
+        "台剧",
+        "欧美剧",
+        "日韩动漫",
+        "日韩综艺",
+        "4K电影",
+        "影视解说",
+        "动画片",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "海外剧",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+
+{
+     "key": "csp_xml_ikun",
+      "name": "📡📺爱家蓝光私人影院",
+      "type": 1,
+      "api": "http://154.37.152.74:8888/down/5ZC4bGtcIxTW.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "泰国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "犯罪片",
+        "惊悚片",
+        "古装片",
+        "灾难片",
+        "历史片",
+        "其他片",
+        "悬疑片",
+        "奇幻片",
+        "动画片",
+        "欧美综艺"
+      ]
+    },
+
+
+    {
+      "key": "南瓜",
+      "name": "📡📺爱子女蓝光私人影院",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+    {
+      "key": "Xinsj",
+      "name": "📡📺爱家庭蓝光私人影院",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.hdmyy.com/"
+    },
+ 
+    {
+      "key": "csp_SP33",
+      "name": "📡📺爱全家蓝光私人影院",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+
+
+   
+    {
+     
+      
+ 
+     
+ 
+  "key": "csp_xpath_rttks","name": "📡📺爱父辈蓝光私人影院","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://154.37.152.74:8888/down/UqoXJIg2YZ8T.json"},
+{
+      "key": "49zy",
+      "name": "📡📺爱父母蓝光私人影院",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "泰国剧",
+        "日剧",
+        "国产动漫",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "日本动漫",
+        "欧美动漫",
+        "电影解说",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ]
+    },
+
+{
+     
+      
+      "key": "api┃百度",
+            "name": "📺🌏成人学习娱乐影厅📡📺万寿无疆私人影院",
+            "type": 1,
+            "api": "百度/api.php/provide/vod/",
+            "searchable": 1,
+           "jiexiUrl": "https://jx.jxbdzyw.com/m3u8/?url=",
+            "filterable": 0,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "大陆剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片"
+            ]
+        },
+        {
+    "key": "飞速资源",
+    "name": "📡📺共创辉煌私人影院",
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "download": "",
+   "playUrl": "https://www.feisuplayer.com/m3u8/?url=",
+   
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 10,
+    "search": 1
+  },
+  {
+     
+     
+    "key": "映迷影院",
+    "name": "📡📺万事繁荣私人影院",
+    "api": "https://www.inmi.app/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": false,
+    "isActive": false,
+    "type": 1,
+    "id": 13,
+    "search": 1
+  },
+  {
+     
+  
+     
+     
+   
+     
+   
+  
+    "key": "速播",
+    "name": "📡📺亲情相伴私人影院",
+    "api": "https://subocaiji.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 26,
+    "search": 1
+  },
+  {
+   
+  
+    "key": "39kan",
+    "name": "📡📺温暖时光私人影院",
+    "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 242,
+    "search": 2,
+    "type": 0
+  },
+  {
+    
+   
+   
+  
+    "key": "wolongzyw",
+    "name": "📡📺家庭和睦私人影院",
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": false,
+    "status": false,
+    "reverseOrder": false,
+    "id": 252,
+    "search": 2,
+    "type": 0
+  },
+  {
+   
+    "key": "xinlangapi",
+    "name": "📡📺恩爱百年私人影院",
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+     "playUrl": " https://www.xinlangjiexi.com/m3u8/?url=",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 255,
+    "search": 2,
+    "type": 0
+  },
+  {
+    "key": "lziapi",
+    "name": " 📡📺相濡以沫私人影院",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 256,
+    "search": 2,
+    "type": 0
+  },
+  {
+    
+    "key": "sdzyapi",
+    "name": "📡📺恩爱如初私人影院📺🌏不要相信视频中任何广告",
+    "api": "https://sdzyapi.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 258,
+    "search": 2,
+    "type": 0
+  },
+  {
+    
+   
+   
+   
+   
+    "key": "bajiecaiji",
+    "name": "📡📺相敬如宾私人影院",
+    "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 265,
+    "search": 2,
+    "type": 0
+  },
+  {
+    
+     
+       
+     
+      
+      "key": "Lib",
+      "name": "📡📺恩爱永恒私人影院",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/"
+    },
+        {
+      
+  
+    
+    
+  
+      
+         
+	   "key": " 艾旦影视",
+    "name": "📡📺 积爱成福私人影院",
+    "api": "https://lovedan.net/api.php/provide/vod/at/xml/ ",
+    "jiexiUrl": "https://www.gszyv.com/m3u8/?url= ",
+    "group": "",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 260,
+    "search": 2,
+    "type": 0
+  },
+  {
+	    
+    
+ 
+	   
+ 
+        "key": "快车资源",
+    "name": "📡📺创新发展私人影院",
+    "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 4,
+    "search": 1
+  },
+  {
+
+
+  "key": "无尽资源",
+    "name": "📡📺互利共赢私人影院",
+    "api": "https://api.wujinapi.me/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 5,
+    "search": 1
+  },
+  {
+
+     
+			    
+	 
+			      "key": "jszy",      "name": "📡📺得意福满私人影院",      "type": 1,      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",      "searchable": 1,      "changeable": 1,      "quickSearch": 1,      "filterable": 1,      "categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","灾难片","悬疑片","犯罪片","奇幻片","动画片","中国动漫","日本动漫","欧美动漫","内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","伦理片","体育赛事","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},    {      "key": "xml_火狐",      "name": "📡📺风生水起私人影院",      "type": 1,      "style": {        "type": "rect",        "ratio": 0.8      },      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",      "searchable": 1,      "quickSearch": 0,      "filterable": 1,      "categories": [        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "悬疑片",        "犯罪片",        "奇幻片",        "记录片",        "动画片",        "伦理片",        "内地剧",        "香港剧",        "台湾剧",        "日剧",        "韩剧",        "欧美剧",        "马泰剧",        "大陆综艺",        "港台综艺",        "日韩综艺",        "欧美综艺",        "中国动漫",        "日本动漫",        "欧美动漫"      ]    },
+
+	{
+			
+		 
+  
+			
+			 "key": "豪华资源",
+      "name": "📡📺惊喜连连私人影院",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "香港剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "台湾剧",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "科幻片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+     {
+			
+			
+			
+			
+			    "key": "卧龙资源",
+    "name": "📡📺稳步发展私人影院📺🌏点击主屏幕，进入搜索页，快速找到影视节目",
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 7,
+    "search": 1
+  },
+  {
+
+			
+			
+		
+		
+		    
+		    "key": "最新电影",
+    "name": "📡📺最新电影私人影院",
+    "api": "https://vip1280.net/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "https://www.8090g.cn/?url= ",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 4,
+    "search": 1
+  },
+  { 
+		    
+		    
+		       
+     
+			"key": "淘片资源",
+			"name": "📡📺弄放心花私人影院",
+			"type": 1,
+			"api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+			"searchable": 1,
+			"quickSearch": 1
+		},
+		{
+			
+     
+       
+		    
+		     
+
+		    
+		    
+		 
+		    
+		    
+			"key": "csp_xml_光速",
+			"name": "📺🌏学习娱乐影视厅📡📺积爱成福私人影院",
+			"type": 1,
+			"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"动漫电影",
+				"大陆剧",
+				"欧美剧",
+				"港澳剧",
+				"韩剧",
+				"台湾剧",
+				"日剧",
+				"海外剧",
+				"泰剧",
+				"体育赛事",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+			"key": "csp_xml_飞速",
+			"name": "📡📺惊喜欲狂私人影院 ",
+			"type": 1,
+			"api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+		
+		"playUrl": "https://www.feisuplayer.com/m3u8/?url=",
+			"filterable": 1,
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"纪录片",
+				"动画片",
+				"其他片",
+				"国产剧",
+				"欧美剧",
+				"香港剧",
+				"韩国剧",
+				"台湾剧",
+				"日本剧",
+				"海外剧",
+				"泰国剧",
+				"其他剧",
+				"体育赛事",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+			"key": "csp_xml_优质",
+			"name": "📡📺谈笑风生私人影院",
+			"type": 1,
+			"api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"动画片",
+				"国产剧",
+				"欧美剧",
+				"香港剧",
+				"韩国剧",
+				"台湾剧",
+				"日本剧",
+				"海外剧",
+				"泰国剧",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+		 
+ 
+  
+ 
+		    
+		   
+		    
+			"key": "csp_xml_百度",
+			"name": "📺🌏学习娱乐影视厅 📡📺鼎业维新私人影院 ",
+			"type": 1,
+			"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+		"jiexiUrl": "https://jx.jxbdzyw.com/m3u8/?url=",
+			"filterable": 1,
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"纪录片",
+				"动画电影",
+				"大陆剧",
+				"欧美剧",
+				"犯罪片",
+				"港澳剧",
+				"韩剧",
+				"泰剧",
+				"台湾剧",
+				"日剧",
+				"海外剧",
+				"其他片",
+				"悬疑片",
+				"奇幻片",
+				"动画片",
+				"体育赛事",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+			"key": "csp_xml_闪电资源",
+			"name": "📡📺赏心乐事私人影院",
+			"type": 1,
+			"api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "",
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"悬疑片",
+				"剧情片",
+				"战争片",
+				"纪录片",
+				"动画电影",
+				"国产剧",
+				"欧美剧",
+				"犯罪片",
+				"港剧",
+				"韩剧",
+				"泰剧",
+				"台剧",
+				"日剧",
+				"海外剧",
+				"其他片",
+				"悬疑片",
+				"奇幻片",
+				"动画片",
+				"体育赛事",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+		   "key": "影图影视",
+    "name": "📡📺创新制胜私人影院",
+    "api": "https://cj.vodimg.top/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 8,
+    "search": 1
+  },
+  {
+  
+		    
+		    
+"key":"笑逐颜开","name":"📡📺笑逐颜开私人影院","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{ 
+
+
+
+			"key": "csp_xml_ckzy",
+			"name": "📡📺知足常乐私人影院",
+			"type": 1,
+			"api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "",
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"悬疑片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"动画电影",
+				"国产剧",
+				"欧美剧",
+				"犯罪片",
+				"香港剧",
+				"韩国剧",
+				"泰剧",
+				"港台剧",
+				"日韩剧",
+				"海外剧",
+				"其他剧",
+				"悬疑片",
+				"奇幻片",
+				"动画片",
+				"体育赛事",
+				"中国动漫",
+				"日本动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+	
+	
+	
+		{ 
+		    
+		    
+   "key":"金鹰资源",
+"name":"📡📺渊博笃志私人影院",
+"type":0,
+"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+"searchable":1,
+"quickSearch":1,
+ "playUrl": "https://hd.iapijy.com/play?url=",
+"filterable":0,
+ "categories": ""
+
+      
+    
+    },
+    {
+
+
+   "key":"鱼乐资源",
+"name":"📡📺饱读经书私人影院",
+"type":0,
+"api":"https://api.ylzy.me/api.php/provide/vod/from/lem3u8/at/xml/",
+"searchable":1,
+"quickSearch":1,
+ "playUrl": "https://jx.ylzy.me/dplayer/?url=",
+"filterable":0,
+ "categories": ""
+    },
+    {
+       
+     
+
+  
+     
+      
+ 
+ 
+
+     
+      
+    
+      
+    "key": "最大资源",
+            "name": "📡📺温故知新私人影院📡🌏需要定制节目联系15362026078",
+            "type": 1,
+            "api": "https://api.zuidapi.com/api.php/provide/vod/",
+            "searchable": 1,
+             "ext": "",
+            "quickSearch": 1,
+            "categories": ""
+        
+         },
+    {
+
+      
+
+
+
+ "key":"虎牙",
+"name":"📡📺博学多才私人影院",
+"type":0,
+"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/",
+"searchable":1,
+"quickSearch":1,
+ "playUrl": "https://huyajx.com/play?url=",
+"filterable":0,
+ "categories": ""
+
+     },
+    {
+    
+      
+        
+   
+         
+     
+       "key": "全站资源",
+            "name": "📡📺温故知新私人影院",
+            "type": 1,
+            "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
+            "searchable": 1,
+             "ext": "",
+            "playUrl": "https://jx.xmflv.com/?url=",
+            "quickSearch": 1,
+            "categories": ""
+         
+         },
+    {
+     
+			 
+       
+            "key": "高清资源网",
+            "name": "📡️📺乐不可言私人影院",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/apijson.php",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"categories": ["国产剧","港台剧","日韩剧","电影","欧美剧","海外剧","综艺","内地动漫","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","其他剧"]
+        },
+
+{
+    
+   
+      
+      "key": "百度资源",
+      "name": "📡📺 安身乐业私人影院",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+     "jiexiUrl": "https://jx.jxbdzyw.com/m3u8/?url=",
+      "quickSearch": 1,
+      "categories": [
+        "大陆剧",
+        "战争片",
+        "动作片",
+        "喜剧片"
+      ]
+    },
+    { "key": "两情相悦私人影院",
+      "name": "📡📺两情相悦私人影院",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://154.37.152.74:8888/down/WCnNlWC7Hc8o.json"
+    },
+    {
+      
+      
+            "key": "快看资源",
+            "name": "📡📺先睹为快私人影院",
+            "type": 1,
+            "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "韩国剧",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "动作片",
+                "科幻片",
+                "战争片",
+                "奇幻片",
+                "喜剧片",
+                "爱情片",
+                "恐怖片",
+                "犯罪片",
+                "悬疑片",
+                "惊悚片",
+                "剧情片",
+                "冒险片",
+                "记录片",
+                "综艺",
+                "动漫"
+            ]
+        },
+    {
+      
+
+
+
+ 
+  
+			"key": "快看资源",
+			"name": "📡📺自得其乐私人影院📡🌏欢迎代理，定制节目15553812199",
+			"type": 1,
+			"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"categories": [
+				"国产剧",
+				"韩国剧",
+				"香港剧",
+				"台湾剧",
+				"欧美剧",
+				"动作片",
+				"科幻片",
+				"战争片",
+				"奇幻片",
+				"喜剧片",
+				"爱情片",
+				"恐怖片",
+				"犯罪片",
+				"悬疑片",
+				"惊悚片",
+				"剧情片",
+				"冒险片",
+				"记录片",
+				"综艺",
+				"动漫"
+			]
+		},
+
+	{  	
+
+    
+    
+   
+    
+    
+   
+     
+      
+      
+      
+      "key": "Gnpt资源",
+				"name": "💞📺浪漫体贴私人影院",
+				"type": 1,
+			"api": "https://www.gnpt.net/api.php/provide/vod/?ac=list",
+				"searchable": 1,
+                 "playUrl": "https://jx.xmflv.com/?url=",
+				"quickSearch": 1,
+				"filterable": 1,
+				 "categories": ""
+},
+
+  {
+     
+  
+   
+      
+     
+ 
+
+"key":"光速资源","name":"📡📺满面春风私人影院","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
+	{
+"key":"极速资源","name":"📡📺欢呼雀跃私人影院","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
+	{
+ 
+"key":"索尼资源","name":" 📡📺手舞足蹈私人影院","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+	{
+	    
+   
+       
+  
+ "key":"祥祥影视","name":"📡📺幸福雀跃私人影院","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{
+    
+     
+ 
+  
+  
+  
+  
+      
+       
+      "key": "DiDuan",
+      "name": " 📡📺竹报平安私人影院",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+       
+      "key": "csp_SP33",
+      "name": " 📡📺功成名就影视厅",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+   
+     
+     
+     "key": "csp_xml_红牛",
+			"name": "📡📺心花怒放私人影院",
+			"type": 1,
+			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"纪录片",
+				"动漫电影",
+				"国产剧",
+				"欧美剧",
+				"犯罪片",
+				"港澳剧",
+				"韩剧",
+				"泰剧",
+				"台湾剧",
+				"日剧",
+				"海外剧",
+				"其他片",
+				"悬疑片",
+				"奇幻片",
+				"动画片",
+				"体育赛事",
+				"国产动漫",
+				"日本动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+      
+     
+     
+     "key": "人人资源",
+    "name": "📡📺爱意满满私人影院",
+    "api": "https://ymck.pro/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "https://www.8090g.cn/?url= ",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 4,
+    "search": 1
+  },
+  {
+            
+           
+            "key": "Xinsj",
+            "name": "📡📺珠连璧合私人影院",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080yy3.com/",
+            "jar": "https://jihulab.com/z666/nb666/-/raw/main/jar/fan928.jar"
+        },
+        {
+             
+             
+            
+           
+          
+            
+            "key": "索尼资源",
+            "name": "📡📺金玉满堂私人影院",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+            "categories": [
+                "动作片",
+                "国产剧",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "海外剧",
+                "纪录片",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "动画片",
+                "港台动漫",
+                "海外动漫",
+                "演唱会",
+                "体育赛事",
+                "篮球",
+                "足球",
+                "斯诺克"
+            ]
+        },
+        { 
+            
+        
+            
+           
+      
+      
+		"key": "app_快看",
+		"name": "📡📺纳福迎祥VIP电影厅",
+		"type": 1,
+		"api": "https://kuaikan-api.com/api.php/provide/vod",
+		"categories":[
+        "网络电影",
+        "动画电影",
+        "动作片",
+        "冒险片",
+        "喜剧片",
+        "爱情片",
+        "奇幻片",
+        "灾难片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产动漫",
+        "日本动漫",
+        "国产剧",
+        "韩国剧",       
+        "港台剧",
+        "欧美剧",
+        "国产综艺",
+        "港台综艺"]},	
+		 {
+        
+ 
+		
+   "key":"csp_xml_ck","name":"📡📺金玉满堂私人影院","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]
+
+}, 
+
+{
+       
+
+
+
+
+
+
+
+			 
+
+ 
+ 
+  "key":"资源库","name":"📡📺鱼跃龙门私人影院","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+{
+"key":"闪电资源","name":"📡📺国泰民安私人影院","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{
+ 
+         
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+   
+ 
+
+        
+        
+      
+  
+    "key":"39影视","name":"📡📺冰清玉洁私人影院","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{ 
+   
+
+    "key":"飘零影院","name":"📡📺德隆望重私人影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{
+   
+   
+  
+    
+    
+    
+  
+     
+"key":"csp_xml___飞速资源2","name":"📡📺绿静春深私人影院","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{
+ 
+    
+  
+    
+      
+      
+      
+      
+         "key": "影猫の仓库",
+    "name": "📡📺喜形于色私人影院",
+    "api": "https://ymck.pro/api.php/provide/vod/at/xml",
+    "jiexiUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+    "group": "",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 260,
+    "search": 2,
+    "type": 0
+  },
+  {
+      
+      
+      
+      
+      
+       
+      
+      
+     
+       "key":"福如云霞私人影院"        ,"name":"📡📺  福如云霞私人影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/ZeNxeGHldkb7.json"},
+{  "key":"福如东海私人影院"   ,"name":"📡📺 福如东海私人影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/SSerH5baAaKy.json"},
+{ "key":"福寿安康私人影院"      ,"name":"📡📺 福寿安康私人影院","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/cyaeEnc9xvCE.json"},
+{ "key":"福禄寿喜私人影院"      ,"name":"📡📺 福禄寿喜私人影院","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/tp01Mha8bpXr.json"},
+     {   "key":"福气绵绵私人影院","name":"📡📺 福气绵绵私人影院","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/O3HzgLkOD0Pq.json"},
+{  "key":"福慧双修私人影院","name":"📡📺 福慧双修私人影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/HYQdjbMnqX4S.json"},
+{      
+      
+  
+    
+
+
+ 
+ 
+   
+   
+    "key": "情深意长私人影院","name": "📡📺情深意长私人影院","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://154.37.152.74:8888/down/SOQQ3FTGsHbQ.json"},
+ 
+ 
+{ 
+ 
+   
+   
+"key": "两情相悦私人影院",
+      "name": "📡📺两情相悦私人影院",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://154.37.152.74:8888/down/VVuSqz43lySd.json"
+    },
+ 
+ 
+    
+         {
+ 
+ 
+  
+    
+    "key":"有剪輯都是從外",
+"name":"📡📺孜孜不倦私人影院",
+"type":0,
+"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
+"searchable":1,
+"quickSearch":1,
+ "playUrl": " https://hhjiexi.com/play/?url= ",
+"filterable":0,
+ "categories": ""
+    },
+    { 
+    
+    
+    
+      "key":"樱花资源",
+"name":"📡📺学富五车私人影院",
+"type":0,
+"api":"https://www.39kan.com/api.php/provide/vod/from/wjm3u8/at/xml/",
+"searchable":1,
+"quickSearch":1,
+ "playUrl": " ",
+"filterable":0,
+ "categories": ""
+    },
+    {
+    
+     "key":"iKun资源",
+"name":"📡📺学无止境私人影院",
+"type":0,
+"api":"https://ikunzyapi.com/api.php/seaxml/vod/at/xml",
+"searchable":1,
+"quickSearch":1,
+ "playUrl": " https://bofang.ikdmjx.com/?url= ",
+"filterable":0,
+ "categories": ""
+
+     },
+    {
+ 
+           "key": "海洋资源",
+      "name": "📡📺发家致富私人影院",
+      "type": 0,
+      "api": "https://www.seacms.org/zyapi.php",
+      "searchable": 1,
+      "jiexiUrl": " https://www.huaqi.live/?url= ",
+       "playUrl": "",
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": ""
+  },
+  {
+  
+    
+    "key":"无尽资源网",
+"name":"📡📺学而不厌私人影院",
+"type":0,
+"api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
+"searchable":1,
+"quickSearch":1,
+ "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
+"filterable":0,
+ "categories": ""
+    },
+    { 
+    
+    
+    
+    "key":"站务邮箱",
+"name":"📡📺勤学苦练私人影院",
+"type":0,
+"api":" https://www.wolongzy.cc/api.php/provide/vod/from/wolong/at/xml/",
+"searchable":1,
+"quickSearch":1,
+ "playUrl": "https://jx.wolongzywcdn.com:65/m3u8.php?url=",
+ 
+ "categories": ""
+
+     },
+    {
+      
+   
+
+  
+ 
+ 
+
+ 
+  
+"key":"豆瓣高分私人影院","name":"📡📺豆瓣高分私人影院","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://154.37.152.74:8888/down/fksqir88TQGm.json"},
+		{
+ 
+ 
+   "key": "csp_AppYsV2_Mxone",
+      "name": "📡📺鲨鱼资源网私人影院📡🌏网络上全部视频一网打尽🌏需要定制15362026078联系",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playUrl": " https://jx.m3u8.pw/?url= ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    { 
+		 
+			"key": "视觉",
+			"name": "📡📺浩学不倦私人影院",
+			"type": 3,
+			"api": "csp_Xinsj",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.80yy3.com/"
+		}, {
+		
+  
+	
+	 
+		"key": "cjzy_feidaozy",
+		"name": "📡📺欢欣鼓舞私人影院",
+		"type": 1,
+		"api": "http://www.feidaozy.com/api.php/provide/vod",
+		"playUrl": "",
+		"categories": ["国产剧", "国产动漫", "香港剧", "台湾剧", "欧美剧", "日韩动漫", "NBA", "短片", "西部片", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "惊悚片", "悬疑片", "犯罪片", "剧情片", "战争片", "家庭篇", "记录片", "历史片", "动漫片", "大陆综艺", "港台综艺"]
+	},
+	{
+		"key": "cjzy_360资源",
+		"name": "📡📺心旷神怡私人影院",
+		"type": 1,
+		"api": "https://360zy.com/api.php/provide/vod",
+
+		"playUrl": "",
+		"categories": ["国产剧", "国产动漫", "香港剧", "台湾剧", "欧美剧", "日韩动漫", "NBA", "短片", "西部片", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "惊悚片", "悬疑片", "犯罪片", "剧情片", "战争片", "家庭篇", "记录片", "历史片", "动漫片", "大陆综艺", "港台综艺"]
+	},
+	{
+	 
+		 
+		"key": "cjzy_爱酷",
+		"name": " 📡📺怡然自得连续剧影院",
+		"playUrl": " https://jx.xmflv.com?url= ",
+		"type": 1,
+		"api": "https://cj.json.icu/aiku.php",
+	 
+		"categories": ["连续剧"]
+	},
+	{	 
+		  "key": "酷看","name": "📡📺乐观向上私人影院","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1
+    },
+    { "key": "厂长","name": "📡📺随心所欲私人影院","type": 3,"api": "csp_Czsapp","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://czzy.top/"
+    },
+    {  "key": "Auete","name": "📡📺 舒心惬意私人影院","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"
+    },
+    { "key": "SP33","name": "📡📺无忧无虑私人影院","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,
+    "playUrl": " https://www.playm3u8.cn/jiexi.php?url= ",
+    "filterable": 1,"changeable": 0
+    },
+    { 
+	"key": "csp_MeiJu69","name": "📡📺畅快淋漓私人影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
+    {"key": "鑫鑫影视","name": "📡📺乐趣横生私人影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
+    {"key": "csp_beijihu","name": "📡📺愉快惬意私人影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
+    { 
+       "key":"csp_appysv2_贵宾影院",
+"name":"📡📺百龄眉寿私人影院",
+"type":3,"api":"csp_AppYsV2",
+"searchable":1,"quickSearch":1,
+"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
+{ 
+    
+   
+ 
+ 
+  
+    "key": "速播资源",
+            "name": "📡📺万事如意私人影院",
+            "type": 1,
+            "api": "https://subocaiji.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "达达龟",
+            "name": "📡📺腰缠万贯私人影院",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://154.37.152.74:8888/down/qEa2G1Dz9tSr.json"
+        },
+        {
+      
+ 
+   "key": "快看采集",
+            "name": "📡📺如影随形私人影院",
+            "searchable": 1,
+            "type": 1,
+            "playerType": 2,
+            "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+            "categories": [
+                "热门短剧",
+                "国产剧",
+                "韩国剧",
+                "港台剧",
+                "欧美剧",
+                "国产综艺",
+                "国产动漫",
+                "日本动漫",
+                "网络电影",
+                "动画电影",
+                "动作片",
+                "冒险片",
+                "喜剧片",
+                "爱情片",
+                "奇幻片",
+                "灾难片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "港台综艺"
+            ]
+        },
+        {
+            
+           
+            "key": "乐视",
+            "name": "📡📺笑口常开私人影院",
+            "type": 1,
+            "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
+            "playUrl": "",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "韩国剧",
+                "短剧",
+                "泰国剧",
+                "欧美剧",
+                "香港剧",
+                "台湾剧",
+                "日剧",
+                "海外剧",
+                "记录片",
+                "反转爽剧",
+                "女频恋爱",
+                "古装仙侠",
+                "年代穿越",
+                "脑洞悬疑",
+                "现代都市",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "电影解说",
+                "动作片",
+                "冒险片",
+                "动画片",
+                "喜剧片",
+                "爱情片",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "犯罪片",
+                "其他片"
+            ]
+        },
+        {
+            
+          
+            "key": "仓库资源",
+            "name": "📡📺和气生财私人影院",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "港台剧",
+                "日韩剧",
+                "伦理片"
+            ]
+        },
+        {    
+            
+      "key": "VIP影视",
+      "name": "📡📺 眉飞色舞私人影院",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/VIP影视.json"
+    },
+    {
+      
+      "key": "csp_xpath___动漫巴士",
+      "name": "📡📺家庭幸福动漫影院",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/动漫巴士.json"
+    },
+    {
+        
+ 
+  "key":"法治报道私人影","name":"📡📺法治报道私人影院📡🌏网络上全部视频一网打尽🌏需要定制15362026078联系","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://154.37.152.74:8888/down/TPVjZqqjb6YG.json"},
+		{
+  "key":"欢天喜地","name":"📡📺欢天喜地私人影院","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{
+    
+      "key": "佳偶天成私人影院",
+      "name": "📡📺佳偶天成私人影院🌏点击主屏画面进入搜索功能🌏更多视频敬请期待",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://154.37.152.74:8888/down/MozkWIOUYQRu.json"
+    
+    }
+
+],
+    "lives" : [
+            {
+             "name" : "电视直播",
+            "type" : 0,
+            "url" : "aHR0cDovLzE1NC4zNy4xNTIuNzQ6ODg4OC9kb3duLzRvbkpGSkt6eWE5MS50eHQ=",
+            "epg" : "https://epg.112114.xyz/api/diyp/",
+            "logo" :""
+        }],
+ 
+"spider": "http://61.183.41.92:588/影视/fty.jar;md5;82a31f7dab4c0eb89a46584f3934d810",
+	"parses": [
+	    {"name":"Json并发","type":2,"url":"Parallel"},
+	    {"name":"解析聚合","type":3,"url":"Demo"},
+        {"name":"Json轮询","type":2,"url":"Sequence"}
+	],
+	"flags": [
+		"znjson",
+		"youku",
+		"videocdn-znjson.cos.ap-guangzhou.cluod.cn/v9-default-nsdsb",
+		"https://ccp-bj29-video-preview.oss-enet.aliyuncs.com",
+		"tucheng",
+		"seven",
+		"SMD",
+		"caihong",
+		"iqiyi",
+		"YuMi-vip-",
+		"qiyi",
+		"letv",
+		"sohu",
+		"tudou",
+		"pptv",
+		"mgtv",
+		"wasu",
+		"bilibili",
+		"renrenmi"
+		
+	],
+	"ijk": [
+		{
+			"group": "硬解码",
+			"options": [
+				{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		},
+		{
+			"group": "软解码",
+			"options": [
+				{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		}
+	],
+	"ads": [
+		"mimg.0c1q0l.cn",
+		"www.googletagmanager.com",
+		"www.google-analytics.com",
+	
+		"www.92424.cn",
+		"k.wudejia.com",
+		"vivovip.mmszxc.top",
+		"qiu.xixiqiu.com",
+		"cdnjs.hnfenxun.com",
+		"cms.qdwght.com"
+	]
+}
