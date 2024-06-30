@@ -35,7 +35,8 @@
 
 {"key":"南瓜弹幕0630","name":"🎃南瓜弹幕","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "./danmu (api0630).jar;md5;5f6157c764202f28968131b805419431"},
 {"key": "JOJO弹幕0630","name": "🍬JOJO弹幕","type": 3,"api": "csp_Jiohub","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"jar": "./danmu (api0630).jar;md5;5f6157c764202f28968131b805419431"},
-{"key":"酷看弹幕0630","name":"🍈酷看弹幕","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "./danmu (api0630).jar;md5;5f6157c764202f28968131b805419431"},
+{"key":"酷看弹幕0630","name":"🍈酷看弹幕","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;5f6157c764202f28968131b805419431"},
+{"key": "荐片弹幕0630","name": "弹幕荐片","type": 3,"api": "csp_Jianpian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;5f6157c764202f28968131b805419431"},
 {"key": "韩小圈0630","name": "韩小圈","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./danmu (api0630).jar;md5;5f6157c764202f28968131b805419431"},
 {"key":"New6v0512","name":"🧲New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"./spider (api).jar;md5;8EE8E83F03D2A33B43DB3A8717495D24"},
 
