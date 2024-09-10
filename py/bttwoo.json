@@ -4,7 +4,7 @@
     
     "站名":"两个BT",
     
-    "主页url":"https://www.bttwoo.com/",
+    "主页url":"https://www.bttwo.org/",
     
     "简介":"video-info-item video-info-content vod_content\"&&</div>",
     
@@ -52,7 +52,7 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://www.bttwoo.com/{cateId}/{area}/year/{year}/{class}/page/{catePg};;ak",
+    "分类url":"https://www.bttwo.org/{cateId}/{area}/year/{year}/{class}/page/{catePg};;ak",
     
     "分类":"影视筛选$movie_bt#最新电影$new-movie#热门下载$hot#本月热门$hot-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
     
